@@ -1,0 +1,500 @@
+synpic42072|pulmonary embolism
+synpic37231|acute appendicitis
+synpic51484|acute appendicitis
+synpic15699|pulmonary embolism
+synpic33852|osteomyelitis
+synpic2923|pulmonary embolism
+synpic29235|pulmonary embolism
+synpic100585|pulmonary embolism
+synpic35354|pulmonary embolism
+synpic46824|pulmonary embolism
+synpic42797|osteomyelitis
+synpic51298|pulmonary embolism
+synpic25210|pulmonary embolism
+synpic22728|pulmonary embolism
+synpic24665|pulmonary embolism
+synpic46204|pulmonary embolism
+synpic24999|ankylosing spondylitis
+synpic100453|pulmonary embolism
+synpic53559|osteochondroma
+synpic33445|ectopic pregnancy
+synpic33985|osteochondroma
+synpic42967|acute appendicitis
+synpic22524|pulmonary embolism
+synpic22948|acute appendicitis
+synpic25238|pulmonary embolism
+synpic52862|epidural spinal hematoma
+synpic18262|pulmonary embolism
+synpic50609|pulmonary embolism
+synpic37098|pulmonary embolism
+synpic27718|acute appendicitis
+synpic26209|pulmonary embolism
+synpic56090|pulmonary embolism
+synpic39790|parathyroid adenoma
+synpic38678|acute appendicitis
+synpic37066|achalasia
+synpic52157|acute appendicitis
+synpic55299|osteomyelitis
+synpic43969|acute appendicitis
+synpic59782|pulmonary embolism
+synpic51655|pulmonary embolism
+synpic43621|pulmonary embolism
+synpic23810|pulmonary embolism
+synpic43898|hypertrophic pyloric stenosis
+synpic22228|osteomyelitis
+synpic50369|osteomyelitis
+synpic27204|hypertrophic pyloric stenosis
+synpic21178|acute appendicitis
+synpic42258|idiopathic synovial osteochondromatosis
+synpic21536|acute appendicitis
+synpic47785|pulmonary embolism
+synpic29229|pulmonary embolism
+synpic41496|ectopic pregnancy
+synpic27108|osteochondroma
+synpic35317|acute appendicitis
+synpic22767|idiopathic synovial osteochondromatosis
+synpic34395|pulmonary embolism
+synpic54304|acute appendicitis
+synpic53075|epidural spinal hematoma
+synpic31891|pulmonary embolism
+synpic100580|acute appendicitis
+synpic32871|osteochondroma
+synpic58069|osteochondroma
+synpic32933|acute appendicitis
+synpic16913|pulmonary embolism
+synpic39915|pulmonary embolism
+synpic24947|osteomyelitis
+synpic46231|acute appendicitis
+synpic49488|pulmonary embolism
+synpic55756|osteomyelitis
+synpic41994|osteochondroma
+synpic59282|pulmonary embolism
+synpic30983|pulmonary embolism
+synpic16203|pulmonary embolism
+synpic36989|acute appendicitis
+synpic24245|osteomyelitis
+synpic25125|pulmonary embolism
+synpic55762|acute appendicitis
+synpic36992|idiopathic synovial osteochondromatosis
+synpic32759|pulmonary embolism
+synpic56770|dural  fistula, avf
+synpic17563|acute appendicitis
+synpic55774|pulmonary embolism
+synpic55382|pulmonary embolism
+synpic41672|pulmonary embolism
+synpic51200|osteomyelitis
+synpic29726|pulmonary embolism
+synpic52935|pulmonary embolism
+synpic22578|acute appendicitis
+synpic27104|pulmonary embolism
+synpic20327|pulmonary embolism
+synpic42991|osteochondroma
+synpic31920|acute appendicitis
+synpic46592|osteochondroma
+synpic27984|pulmonary embolism
+synpic60667|acute appendicitis
+synpic49843|osteomyelitis
+synpic53568|acute appendicitis
+synpic59335|pulmonary embolism
+synpic22798|pulmonary embolism
+synpic15810|osteochondroma
+synpic100584|idiopathic synovial osteochondromatosis
+synpic39647|osteochondroma
+synpic16028|dural  fistula, avf
+synpic20002|acute appendicitis
+synpic53139|acute appendicitis
+synpic42247|pulmonary embolism
+synpic52861|pulmonary embolism
+synpic24351|pulmonary embolism
+synpic29754|pulmonary embolism
+synpic17013|pulmonary embolism
+synpic59273|pulmonary embolism
+synpic16388|acute appendicitis
+synpic23762|acute appendicitis
+synpic29681|hypertrophic pyloric stenosis
+synpic18567|pulmonary embolism
+synpic26527|acute appendicitis
+synpic27494|ectopic pregnancy
+synpic39432|pulmonary embolism
+synpic17129|hypertrophic pyloric stenosis
+synpic47180|pulmonary embolism
+synpic37257|acute appendicitis
+synpic31909|pulmonary embolism
+synpic16218|acute appendicitis
+synpic33268|osteomyelitis
+synpic52072|acute appendicitis
+synpic42585|osteochondroma
+synpic40872|acute appendicitis
+synpic56637|acute appendicitis
+synpic60060|acute appendicitis
+synpic28145|pulmonary embolism
+synpic40535|acute appendicitis
+synpic30899|ectopic pregnancy
+synpic38166|pulmonary embolism
+synpic27010|epidural spinal hematoma
+synpic34148|pulmonary embolism
+synpic48161|pulmonary embolism
+synpic47935|pulmonary embolism
+synpic35742|pulmonary embolism
+synpic59714|pulmonary embolism
+synpic20119|pulmonary embolism
+synpic21759|epidural spinal hematoma
+synpic32329|osteochondroma
+synpic40875|acute appendicitis
+synpic29664|pulmonary embolism
+synpic54621|pulmonary embolism
+synpic43739|pulmonary embolism
+synpic43932|acute appendicitis
+synpic54589|epidural spinal hematoma
+synpic33199|pulmonary embolism
+synpic20294|acute appendicitis
+synpic29727|idiopathic synovial osteochondromatosis
+synpic53121|pulmonary embolism
+synpic16394|idiopathic synovial osteochondromatosis
+synpic22378|acute appendicitis
+synpic22786|pulmonary embolism
+synpic50607|pulmonary embolism
+synpic28082|acute appendicitis
+synpic26367|pulmonary embolism
+synpic47250|epidural spinal hematoma
+synpic31719|pulmonary embolism
+synpic100462|pulmonary embolism
+synpic20015|pulmonary embolism
+synpic33113|idiopathic synovial osteochondromatosis
+synpic54535|acute appendicitis
+synpic32244|idiopathic synovial osteochondromatosis
+synpic56731|idiopathic synovial osteochondromatosis
+synpic44467|idiopathic synovial osteochondromatosis
+synpic26972|pulmonary embolism
+synpic17677|pulmonary embolism
+synpic31666|acute appendicitis
+synpic22580|achalasia
+synpic41199|acute appendicitis
+synpic51880|pulmonary embolism
+synpic29058|pulmonary embolism
+synpic28808|acute appendicitis
+synpic52878|pulmonary embolism
+synpic56774|dural  fistula, avf
+synpic22839|pulmonary embolism
+synpic55755|osteomyelitis
+synpic48310|pulmonary embolism
+synpic43587|hypertrophic pyloric stenosis
+synpic22370|ectopic pregnancy
+synpic40379|pulmonary embolism
+synpic17161|idiopathic synovial osteochondromatosis
+synpic55104|pulmonary embolism
+synpic32615|acute appendicitis
+synpic34502|acute appendicitis
+synpic39784|pulmonary embolism
+synpic34324|pulmonary embolism
+synpic54047|acute appendicitis
+synpic31791|osteochondroma
+synpic29050|pulmonary embolism
+synpic31892|pulmonary embolism
+synpic22876|pulmonary embolism
+synpic28987|osteochondroma
+synpic39914|osteochondroma
+synpic37232|acute appendicitis
+synpic30752|pulmonary embolism
+synpic22253|epidural spinal hematoma
+synpic41207|epidural spinal hematoma
+synpic41396|osteomyelitis
+synpic54057|osteomyelitis
+synpic32059|acute appendicitis
+synpic26941|acute appendicitis
+synpic31570|acute appendicitis
+synpic31958|pulmonary embolism
+synpic18577|pulmonary embolism
+synpic53067|acute appendicitis
+synpic55381|pulmonary embolism
+synpic26202|acute appendicitis
+synpic39808|pulmonary embolism
+synpic23531|pulmonary embolism
+synpic38589|pulmonary embolism
+synpic19564|pulmonary embolism
+synpic51459|acute appendicitis
+synpic51142|idiopathic synovial osteochondromatosis
+synpic23777|acute appendicitis
+synpic28543|pulmonary embolism
+synpic24410|pulmonary embolism
+synpic55743|pulmonary embolism
+synpic1050|achalasia
+synpic18873|acute appendicitis
+synpic24242|pulmonary embolism
+synpic22031|idiopathic synovial osteochondromatosis
+synpic29049|pulmonary embolism
+synpic23060|pulmonary embolism
+synpic40468|acute appendicitis
+synpic45709|acute appendicitis
+synpic29651|epidural spinal hematoma
+synpic58004|pulmonary embolism
+synpic26677|pulmonary embolism
+synpic32648|pulmonary embolism
+synpic49465|acute appendicitis
+synpic18435|pulmonary embolism
+synpic32327|idiopathic synovial osteochondromatosis
+synpic54520|acute appendicitis
+synpic42806|osteochondroma
+synpic19183|acute appendicitis
+synpic27750|pulmonary embolism
+synpic34409|epidural spinal hematoma
+synpic32821|osteochondroma
+synpic29658|pulmonary embolism
+synpic19010|osteochondroma
+synpic38597|pulmonary embolism
+synpic38833|acute appendicitis
+synpic17767|pulmonary embolism
+synpic26669|pulmonary embolism
+synpic15790|pulmonary embolism
+synpic31821|osteochondroma
+synpic50771|osteomyelitis
+synpic52783|acute appendicitis
+synpic19648|pulmonary embolism
+synpic50772|epidural spinal hematoma
+synpic49087|pulmonary embolism
+synpic32934|osteochondroma
+synpic51654|pulmonary embolism
+synpic43460|pulmonary embolism
+synpic32061|osteochondroma
+synpic17744|pulmonary embolism
+synpic32313|idiopathic synovial osteochondromatosis
+synpic54528|acute appendicitis
+synpic45066|pulmonary embolism
+synpic29750|epidural spinal hematoma
+synpic26826|acute appendicitis
+synpic46504|osteomyelitis
+synpic28555|acute appendicitis
+synpic45713|pulmonary embolism
+synpic58399|acute appendicitis
+synpic32696|pulmonary embolism
+synpic27587|acute appendicitis
+synpic28923|pulmonary embolism
+synpic42068|acute appendicitis
+synpic26538|pulmonary embolism
+synpic45941|pulmonary embolism
+synpic19184|hypertrophic pyloric stenosis
+synpic32151|pulmonary embolism
+synpic16215|dural  fistula, avf
+synpic55742|pulmonary embolism
+synpic42809|pulmonary embolism
+synpic22317|pulmonary embolism
+synpic43687|osteochondroma
+synpic32650|pulmonary embolism
+synpic42023|pulmonary embolism
+synpic46975|idiopathic synovial osteochondromatosis
+synpic31402|acute appendicitis
+synpic30680|acute appendicitis
+synpic53556|pulmonary embolism
+synpic34165|hypertrophic pyloric stenosis
+synpic46732|pulmonary embolism
+synpic592|pulmonary embolism
+synpic37873|pulmonary embolism
+synpic22661|acute appendicitis
+synpic24422|pulmonary embolism
+synpic8222|pulmonary embolism
+synpic54384|osteochondroma
+synpic33440|pulmonary embolism
+synpic32225|pulmonary embolism
+synpic37731|pulmonary embolism
+synpic52604|osteochondroma
+synpic100463|pulmonary embolism
+synpic33849|epidural spinal hematoma
+synpic56768|pulmonary embolism
+synpic31100|ectopic pregnancy
+synpic50573|dural  fistula, avf
+synpic31079|osteochondroma
+synpic32387|osteochondroma
+synpic16908|acute appendicitis
+synpic57721|osteomyelitis
+synpic29817|epidural spinal hematoma
+synpic52848|idiopathic synovial osteochondromatosis
+synpic42262|acute appendicitis
+synpic26529|idiopathic synovial osteochondromatosis
+synpic56617|pulmonary embolism
+synpic17788|breast implant,  rupture, extracapsular silicone
+synpic24147|acute appendicitis
+synpic60344|pulmonary embolism
+synpic45046|acute appendicitis
+synpic25208|acute appendicitis
+synpic12950|achalasia
+synpic35643|acute appendicitis
+synpic42586|pulmonary embolism
+synpic23543|pulmonary embolism
+synpic55741|acute appendicitis
+synpic54287|pulmonary embolism
+synpic36418|acute appendicitis
+synpic54750|pulmonary embolism
+synpic22256|pulmonary embolism
+synpic24419|pulmonary embolism
+synpic51811|acute appendicitis
+synpic39317|pulmonary embolism
+synpic16043|pulmonary embolism
+synpic17493|acute appendicitis
+synpic22660|pulmonary embolism
+synpic20019|hypertrophic pyloric stenosis
+synpic32645|osteochondroma
+synpic22927|acute appendicitis
+synpic33991|osteomyelitis
+synpic22606|idiopathic synovial osteochondromatosis
+synpic29192|acute appendicitis
+synpic23760|osteochondroma
+synpic21811|pulmonary embolism
+synpic33438|acute appendicitis
+synpic18633|pulmonary embolism
+synpic32094|osteochondroma
+synpic53836|osteomyelitis
+synpic28641|ectopic pregnancy
+synpic47202|acute appendicitis
+synpic31689|pulmonary embolism
+synpic20036|achalasia
+synpic56906|osteomyelitis
+synpic55464|acute appendicitis
+synpic31298|pulmonary embolism
+synpic27975|pulmonary embolism
+synpic39430|pulmonary embolism
+synpic47249|acute appendicitis
+synpic22106|hypertrophic pyloric stenosis
+synpic55095|pulmonary embolism
+synpic55760|epidural spinal hematoma
+synpic100464|pulmonary embolism
+synpic46422|epidural spinal hematoma
+synpic54785|idiopathic synovial osteochondromatosis
+synpic22997|pulmonary embolism
+synpic31554|idiopathic synovial osteochondromatosis
+synpic37252|pulmonary embolism
+synpic19414|pulmonary embolism
+synpic33529|osteochondroma
+synpic23651|pulmonary embolism
+synpic42200|acute appendicitis
+synpic31425|acute appendicitis
+synpic28680|pulmonary embolism
+synpic58391|dural  fistula, avf
+synpic25413|pulmonary embolism
+synpic39188|pulmonary embolism
+synpic34629|idiopathic synovial osteochondromatosis
+synpic24239|pulmonary embolism
+synpic38839|acute appendicitis
+synpic38605|pulmonary embolism
+synpic32846|achalasia
+synpic32695|pulmonary embolism
+synpic32681|osteochondroma
+synpic29824|ectopic pregnancy
+synpic50613|pulmonary embolism
+synpic41497|acute appendicitis
+synpic31407|pulmonary embolism
+synpic22987|pulmonary embolism
+synpic22656|idiopathic synovial osteochondromatosis
+synpic36907|idiopathic synovial osteochondromatosis
+synpic15440|pulmonary embolism
+synpic23265|epidural spinal hematoma
+synpic21830|pulmonary embolism
+synpic24469|pulmonary embolism
+synpic51478|osteochondroma
+synpic27181|pulmonary embolism
+synpic23948|pulmonary embolism
+synpic23201|pulmonary embolism
+synpic16804|acute appendicitis
+synpic26943|ectopic pregnancy
+synpic22594|osteomyelitis
+synpic22899|pulmonary embolism
+synpic21570|acute appendicitis
+synpic29756|pulmonary embolism
+synpic34122|pulmonary embolism
+synpic58602|acute appendicitis
+synpic40304|acute appendicitis
+synpic100583|idiopathic synovial osteochondromatosis
+synpic34711|pulmonary embolism
+synpic16255|acute appendicitis
+synpic16899|osteomyelitis
+synpic50770|osteomyelitis
+synpic52302|acute appendicitis
+synpic22449|idiopathic synovial osteochondromatosis
+synpic51236|idiopathic synovial osteochondromatosis
+synpic55265|acute appendicitis
+synpic29833|acute appendicitis
+synpic25035|pulmonary embolism
+synpic57437|epidural spinal hematoma
+synpic37400|pulmonary embolism
+synpic31451|epidural spinal hematoma
+synpic39774|idiopathic synovial osteochondromatosis
+synpic19532|pulmonary embolism
+synpic36694|pulmonary embolism
+synpic31143|acute appendicitis
+synpic27931|pulmonary embolism
+synpic24698|osteomyelitis
+synpic52605|idiopathic synovial osteochondromatosis
+synpic16864|pulmonary embolism
+synpic17522|acute appendicitis
+synpic21173|epidural spinal hematoma
+synpic22340|acute appendicitis
+synpic18936|acute appendicitis
+synpic18787|pulmonary embolism
+synpic42576|epidural spinal hematoma
+synpic39918|pulmonary embolism
+synpic19413|hypertrophic pyloric stenosis
+synpic50575|pulmonary embolism
+synpic43618|acute appendicitis
+synpic45858|pulmonary embolism
+synpic40469|acute appendicitis
+synpic33432|pulmonary embolism
+synpic32163|idiopathic synovial osteochondromatosis
+synpic29230|epidural spinal hematoma
+synpic46635|pulmonary embolism
+synpic46825|pulmonary embolism
+synpic56204|acute appendicitis
+synpic33352|acute appendicitis
+synpic58049|pulmonary embolism
+synpic23500|pulmonary embolism
+synpic27901|ectopic pregnancy
+synpic53119|pulmonary embolism
+synpic27904|pulmonary embolism
+synpic56630|pulmonary embolism
+synpic46499|pulmonary embolism
+synpic18534|pulmonary embolism
+synpic39624|acute appendicitis
+synpic31123|idiopathic synovial osteochondromatosis
+synpic55398|acute appendicitis
+synpic42066|osteochondroma
+synpic27447|osteochondroma
+synpic51288|idiopathic synovial osteochondromatosis
+synpic58680|acute appendicitis
+synpic54521|acute appendicitis
+synpic59048|acute appendicitis
+synpic28650|hypertrophic pyloric stenosis
+synpic27243|acute appendicitis
+synpic56881|pulmonary embolism
+synpic55193|hypertrophic pyloric stenosis
+synpic18613|idiopathic synovial osteochondromatosis
+synpic33243|epidural spinal hematoma
+synpic16256|idiopathic synovial osteochondromatosis
+synpic50752|achalasia
+synpic24948|osteomyelitis
+synpic49454|acute appendicitis
+synpic23787|pulmonary embolism
+synpic21266|pulmonary embolism
+synpic31627|acute appendicitis
+synpic59042|pulmonary embolism
+synpic32171|pulmonary embolism
+synpic36231|pulmonary embolism
+synpic40614|pulmonary embolism
+synpic49071|epidural spinal hematoma
+synpic32386|idiopathic synovial osteochondromatosis
+synpic51653|acute appendicitis
+synpic43619|pulmonary embolism
+synpic32167|pulmonary embolism
+synpic20964|fat necrosis
+synpic42218|osteochondroma
+synpic22924|acute appendicitis
+synpic55295|acute appendicitis
+synpic35736|epidural spinal hematoma
+synpic27198|acute appendicitis
+synpic21974|osteochondroma
+synpic42590|acute appendicitis
+synpic15444|acute appendicitis
+synpic32201|acute appendicitis
+synpic20694|osteochondroma
+synpic52304|pulmonary embolism
+synpic32176|pulmonary embolism
+synpic54519|pulmonary embolism
+synpic42577|epidural spinal hematoma
+synpic33850|epidural spinal hematoma
