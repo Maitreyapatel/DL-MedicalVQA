@@ -1,0 +1,500 @@
+synpic42072|sickle cell disease
+synpic37231|pulmonary embolism
+synpic51484|nonossifying fibroma
+synpic15699|choledocholithiasis
+synpic33852|lateral femoral notch sign
+synpic2923|pneumothorax
+synpic29235|pancreatic adenocarcinoma
+synpic100585|atelectasis
+synpic35354|fractures of the base of the fifth metatarsal
+synpic46824|empyema
+synpic42797|spinal cord astrocytoma
+synpic51298|abdominal aortic aneurysm
+synpic25210|pulmonary sarcoidosis
+synpic22728|epidural spinal hematoma
+synpic24665|vertebral osteomyelitis and diskitis
+synpic46204|abdominal abscess
+synpic24999|pneumonia
+synpic100453|right c6 radiculopathy and ankylosing spondylitis
+synpic53559|langerhan cell histiocytosis
+synpic33445|acute appendicitis
+synpic33985|femoral neck stress fractures
+synpic42967|supracondylar fracture
+synpic22524|multiple osteochondromatosis
+synpic22948|acute pyelonephritis
+synpic25238|adenocarcinoma of the lung
+synpic52862|quadriceps tendon rupture
+synpic18262|tibial plateau fracture
+synpic50609|avascular necrosis
+synpic37098|acute pyelonephritis
+synpic27718|nonossifying fibroma
+synpic26209|enchondroma
+synpic56090|double aortic arch
+synpic39790|right c6 radiculopathy and ankylosing spondylitis
+synpic38678|tibial plateau fracture
+synpic37066|achalasia
+synpic52157|epiploic appendagitis
+synpic55299|ventriculus terminalis
+synpic43969|pulmonary embolus
+synpic59782|acute appendicitis
+synpic51655|transverse myelitis
+synpic43621|crossed fused ectopia
+synpic23810|nodular sclerosing hodgkin’s lymphoma
+synpic43898|varicocele
+synpic22228|femoral neck stress fractures
+synpic50369|pleomorphic  xanthoastrocytoma, pxa
+synpic27204|hypertrophic pyloric stenosis
+synpic21178|osteochondritis dissecans
+synpic42258|anterior mediastinal mass differential diagnosis
+synpic21536|horseshoe kidney
+synpic47785|pericardial cyst
+synpic29229|spine, spinal stenosis
+synpic41496|acute pyelonephritis
+synpic27108|pneumothorax
+synpic35317|pericardial cyst
+synpic22767|fibrous dysplasia
+synpic34395|hepatic hemangioma
+synpic54304|intramedullary (intradural-intramedullary), spinal lesions
+synpic53075|spinal cord astrocytoma
+synpic31891|takayasu arteritis
+synpic100580|motor vehicle accidents and instrument failure
+synpic32871|adenocarcinoma of the lung
+synpic58069|pneumomediastinum
+synpic32933|sarcoid
+synpic16913|horseshoe kidney
+synpic39915|pulmonary embolism
+synpic24947|diastematomyelia
+synpic46231|foreign body aspiration
+synpic49488|mycotic aneurysm
+synpic55756|enlarged subarachnoid space
+synpic41994|avascular necrosis
+synpic59282|incidental hepatic artery aneurysm
+synpic30983|angiomyolipoma
+synpic16203|diverticulitis
+synpic36989|acute appendicitis
+synpic24245|spinal dural arteriovenous fistula
+synpic25125|liver hemangioma
+synpic55762|enlarged subarachnoid space
+synpic36992|pulmonary arteriovenous malformation
+synpic32759|nonossifying fibroma
+synpic56770|dural  fistula, avf
+synpic17563|medullary nephrocalcinosis
+synpic55774|enlarged subarachnoid space
+synpic55382|ankylosing spondylitis
+synpic41672|pulmonary embolism
+synpic51200|spinal dural arteriovenous fistula
+synpic29726|azygous lobe
+synpic52935|renal cell carcinoma
+synpic22578|colon cancer
+synpic27104|pulmonary embolus and external iliac vein thrombosis diagnosed by spiral ct
+synpic20327|pericardial cyst
+synpic42991|rickets
+synpic31920|small bowel lymphoma
+synpic46592|rheumatoid arthritis
+synpic27984|myelolipoma
+synpic60667|angiomyolipoma
+synpic49843|large cell lymphoma, of the b-cell phenotype (cd20 positive).
+synpic53568|abdominal compartment syndrome
+synpic59335|sequestration, intralobar bronchopulmonary
+synpic22798|hiatal hernia
+synpic15810|pulmonary sarcoidosis
+synpic100584|acute appendicitis
+synpic39647|hemiazygous and azygous continuation of the inferior vena cava
+synpic16028|carotid artery dissection
+synpic20002|simple bone cyst
+synpic53139|epiploic appendagitis
+synpic42247|hereditary hemorrhagic telangiectasia (hht) and pulmonary arteriovenous malformation (avm)- osler-weber-rendu
+synpic52861|lateral femoral notch sign
+synpic24351|intralobar pulmonary sequestration
+synpic29754|portal vein thrombosis
+synpic17013|avascular necrosis of the femoral head
+synpic59273|incidental hepatic artery aneurysm
+synpic16388|hereditary hemorrhagic telangiectasia (hht) and pulmonary arteriovenous malformation (avm)- osler-weber-rendu
+synpic23762|cirrhosis of the liver
+synpic29681|cholelithiasis
+synpic18567|ganglioneuroma
+synpic26527|azygous lobe
+synpic27494|acute calculous cholecystitis
+synpic39432|partial anomalous pulmonary venous return
+synpic17129|hypertrophic pyloric stenosis
+synpic47180|aberrant right subclavian artery (arsa)
+synpic37257|colon cancer
+synpic31909|adrenal adenoma
+synpic16218|testicular microlithiasis
+synpic33268|sickle cell anemia
+synpic52072|c-spine fracture
+synpic42585|multiple osteochondromatosis
+synpic40872|ependymoma cervical spinal cord
+synpic56637|adenocarcinoma of the lung
+synpic60060|foreign body aspiration
+synpic28145|renal cell carcinoma
+synpic40535|autosomal recessive polycystic kidney disease
+synpic30899|bronchiectasis
+synpic38166|intralobar pulmonary sequestration
+synpic27010|chloroma
+synpic34148|pulmonary embolism
+synpic48161|empyema
+synpic47935|crohn's disease
+synpic35742|leptomeningeal sarcoid
+synpic59714|lymphangioma
+synpic20119|myelolipoma
+synpic21759|lateral femoral notch sign
+synpic32329|osteopoikilosis
+synpic40875|metastatic disease from colonic carcinoma
+synpic29664|fibrous dysplasia
+synpic54621|carcinoma, small cell
+synpic43739|simple bone cyst
+synpic43932|azygous lobe
+synpic54589|aneurysmal bone cyst
+synpic33199|partial anomalous pulmonary venous return
+synpic20294|pheochromocytoma, bilateral
+synpic29727|vacterl syndrome
+synpic53121|adenocarcinoma of the lung
+synpic16394|nonossifying fibroma
+synpic22378|uterine fibroid embolization
+synpic22786|acute appendicitis
+synpic50607|aberrant right subclavian artery (arsa)
+synpic28082|tibial plateau fracture
+synpic26367|paget's disease
+synpic47250|pleomorphic  xanthoastrocytoma, pxa
+synpic31719|azygous lobe
+synpic100462|hiatal hernia
+synpic20015|fibromatosis coli
+synpic33113|osteomyelitis
+synpic54535|adenocarcinoma of the lung
+synpic32244|fibrous dysplasia
+synpic56731|occult stress fracture
+synpic44467|calcific tendinitis
+synpic26972|epididymitis
+synpic17677|basic chest imaging review, search pattern, required structures
+synpic31666|left aortic arch with aberrant right subclavian artery
+synpic22580|duodenal diverticulum
+synpic41199|focal nodular hyperplasia
+synpic51880|epidural spinal hematoma
+synpic29058|rickets
+synpic28808|angiomyolipoma
+synpic52878|adpkd -autosomal dominant polycystic kidney disease
+synpic56774|dural  fistula, avf
+synpic22839|aortic pseudoaneurysm
+synpic55755|enlarged subarachnoid space
+synpic48310|epiploic appendagitis
+synpic43587|intussusception
+synpic22370|transitional cell carcinoma, bladder
+synpic40379|adenocarcinoma of the lung
+synpic17161|radial head fracture
+synpic55104|chance-type fracture
+synpic32615|atelectasis
+synpic34502|esophageal foreign body - coin ingestion
+synpic39784|crohn's disease
+synpic34324|pulmonary arteriovenous malformation
+synpic54047|neuroblastoma
+synpic31791|atelectasis
+synpic29050|double aortic arch
+synpic31892|duplicated renal collecting system
+synpic22876|incidental hepatic artery aneurysm
+synpic28987|atelectasis
+synpic39914|pulmonary embolism
+synpic37232|partial anomalous pulmonary venous return
+synpic30752|duplicated inferior vena cava
+synpic22253|osteomyelitis
+synpic41207|epidural spinal hematoma
+synpic41396|spine, epidural abscess
+synpic54057|leptomeningeal sarcoid
+synpic32059|carcinoma, small cell
+synpic26941|fibromatosis coli
+synpic31570|paget's disease
+synpic31958|pulmonary embolus
+synpic18577|epididymitis
+synpic53067|adenocarcinoma of the lung
+synpic55381|ankylosing spondylitis
+synpic26202|pneumomediastinum
+synpic39808|wilms tumor
+synpic23531|ankylosing spondylitis
+synpic38589|epidural spinal hematoma
+synpic19564|breast implant,  rupture, extracapsular silicone
+synpic51459|vacterl syndrome
+synpic51142|supracondylar fracture
+synpic23777|acute calculous cholecystitis
+synpic28543|hiatus hernia
+synpic24410|angiomyolipoma
+synpic55743|enlarged subarachnoid space
+synpic1050|double aortic arch
+synpic18873|clear cell chondrosarcoma
+synpic24242|schwannoma
+synpic22031|nodular sclerosing hodgkin’s lymphoma
+synpic29049|small cell lung carcinoma (sclc)
+synpic23060|angiomyolipoma
+synpic40468|osteomyelitis
+synpic45709|sickle cell anemia
+synpic29651|ewing sarcoma
+synpic58004|bilateral perched facets c5 c6 with spinal cord injury
+synpic26677|testicular torsion
+synpic32648|comminuted fracture of medial femoral condyle. small joint effusion.
+synpic49465|aberrant right subclavian artery (arsa)
+synpic18435|acute appendicitis
+synpic32327|avascular necrosis
+synpic54520|partial anomalous pulmonary venous return
+synpic42806|adenocarcinoma of the lung
+synpic19183|diverticulitis
+synpic27750|radial head fracture
+synpic34409|synovial cyst
+synpic32821|pneumocystis jiroveci (p. carinii) pneumonia
+synpic29658|fractures of the base of the fifth metatarsal
+synpic19010|pneumothorax
+synpic38597|pulmonary embolism
+synpic38833|renal oncocytoma
+synpic17767|myelolipoma
+synpic26669|pulmonary sequestration
+synpic15790|pulmonary embolism
+synpic31821|rickets
+synpic50771|diastematomyelia
+synpic52783|osteogenesis imperfecta
+synpic19648|pneumomediastinum
+synpic50772|spine, epidural abscess
+synpic49087|ankylosing spondylitis
+synpic32934|pneumomediastinum
+synpic51654|spinal dural arteriovenous fistula
+synpic43460|seminoma
+synpic32061|achalasia
+synpic17744|pericardial cyst
+synpic32313|torus fracture/buckle fracture of the distal radius
+synpic54528|partial anomalous pulmonary venous return
+synpic45066|ankylosing spondylitis
+synpic29750|osteomyelitis
+synpic26826|cavernous hemangioma
+synpic46504|cholelithiasis
+synpic28555|pericardial cyst
+synpic45713|epidural spinal hematoma
+synpic58399|aneurysm, cerebral
+synpic32696|supracondylar fracture
+synpic27587|pulmonary sarcoidosis
+synpic28923|stress fracture
+synpic42068|multifocal bone infarcts (osteonecrosis) in a patient with systemic lupus erythematosus.
+synpic26538|pseudomembranous colitis
+synpic45941|fractures of the base of the fifth metatarsal
+synpic19184|cirrhosis of the liver
+synpic32151|lymphangitic carcinomatosis
+synpic16215|meningioma
+synpic55742|enlarged subarachnoid space
+synpic42809|pneumothorax
+synpic22317|osteochondroma
+synpic43687|osteiitis condensans ilii
+synpic32650|comminuted fracture of medial femoral condyle. small joint effusion.
+synpic42023|lisfranc fracture-dislocation
+synpic46975|multiple osteochondromatosis
+synpic31402|wilms tumor
+synpic30680|avascular necrosis
+synpic53556|supra-renal inferior vena cava clot
+synpic34165|varicocele
+synpic46732|pulmonary embolism
+synpic592|ewing's sarcoma
+synpic37873|classical hodgkins lymphoma, nodular sclerosis subtype
+synpic22661|neuroblastoma
+synpic24422|right aortic arch with aberrant left subclavian artery
+synpic8222|osteomyelitis
+synpic54384|atelectasis
+synpic33440|acute appendicitis
+synpic32225|pulmonary arteriovenous malformation
+synpic37731|sarcoidosis
+synpic52604|ankylosing spondylitis
+synpic100463|adpkd -autosomal dominant polycystic kidney disease
+synpic33849|meniscal tear
+synpic56768|dural  fistula, avf
+synpic31100|unicornuate uterus
+synpic50573|dural  fistula, avf
+synpic31079|aspergillosis and the air-crescent sign
+synpic32387|supracondylar fracture
+synpic16908|horseshoe kidney
+synpic57721|chiari i with cervical spine syrinx.
+synpic29817|osteoid osteoma
+synpic52848|fibrous dysplasia
+synpic42262|acute appendicitis
+synpic26529|incarcerated diaphragmatic hernia presenting as colonic obstruction.
+synpic56617|dermoid cyst (cystic teratoma)
+synpic17788|invasive lobular carcinoma
+synpic24147|colon cancer
+synpic60344|leptomeningeal sarcoid
+synpic45046|osteochondritis dissecans
+synpic25208|aortic nipple
+synpic12950|achalasia
+synpic35643|metastatic disease from colonic carcinoma
+synpic42586|tibial plateau fracture
+synpic23543|varicocele
+synpic55741|enlarged subarachnoid space
+synpic54287|pneumomediastinum
+synpic36418|double aortic arch
+synpic54750|motor vehicle accidents and instrument failure
+synpic22256|osteomyelitis
+synpic24419|right aortic arch with aberrant left subclavian artery
+synpic51811|epidural spinal hematoma
+synpic39317|empyema
+synpic16043|tibial plateau fracture
+synpic17493|testicular torsion
+synpic22660|leptomeningeal sarcoid
+synpic20019|intussusception
+synpic32645|nonossifying fibroma
+synpic22927|double aortic arch
+synpic33991|spine, epidural abscess
+synpic22606|avascular necrosis
+synpic29192|acute pediatric osteomyelitis
+synpic23760|intralobar pulmonary sequestration
+synpic21811|pulmonary embolus
+synpic33438|angiomyolipoma
+synpic18633|ruptured appendicitis
+synpic32094|poland's syndrome
+synpic53836|coarctation of the aorta
+synpic28641|testicular microlithiasis
+synpic47202|adenocarcinoma of the lung
+synpic31689|pericardial cyst
+synpic20036|colon cancer
+synpic56906|epidural spinal hematoma
+synpic55464|pulmonary arteriovenous malformation
+synpic31298|left aortic arch with aberrant right subclavian artery
+synpic27975|synovial cyst
+synpic39430|partial anomalous pulmonary venous return
+synpic47249|pleomorphic  xanthoastrocytoma, pxa
+synpic22106|osteochondroma
+synpic55095|multiple osteochondromatosis
+synpic55760|enlarged subarachnoid space
+synpic100464|quadriceps tendon rupture
+synpic46422|diastematomyelia
+synpic54785|ankylosing spondylitis
+synpic22997|diffuse rhabdomyosarcoma
+synpic31554|vertebral osteomyelitis and diskitis
+synpic37252|classic bosniak class iii complex renal cyst
+synpic19414|hypertrophic pyloric stenosis
+synpic33529|rickets
+synpic23651|cirrhosis of the liver
+synpic42200|pericardial cyst
+synpic31425|osteopoikilosis
+synpic28680|adenocarcinoma of the lung
+synpic58391|traumatic carotid-cavernous fistula
+synpic25413|bicornuate uterus
+synpic39188|ankylosing spondylitis
+synpic34629|small cell lung carcinoma (sclc)
+synpic24239|classical hodgkins lymphoma, nodular sclerosis subtype
+synpic38839|venous thromboembolism (vte)
+synpic38605|choledocholithiasis
+synpic32846|crohn's disease
+synpic32695|fibrous dysplasia
+synpic32681|inflammatory breast carcinoma
+synpic29824|ectopic pregnancy
+synpic50613|tethered spinal cord with terminal spinal lipoma.
+synpic41497|myelolipoma
+synpic31407|synovial cyst
+synpic22987|enchondroma
+synpic22656|osteosarcoma
+synpic36907|ganglioneuroma
+synpic15440|hepatic hemangioma
+synpic23265|occult stress fracture
+synpic21830|horseshoe kidney
+synpic24469|pulmonary embolism
+synpic51478|osteopoikilosis
+synpic27181|pulmonary embolus and external iliac vein thrombosis diagnosed by spiral ct
+synpic23948|osteochondroma
+synpic23201|segmental omental infarct
+synpic16804|nonspecific interstitial pneumonitis
+synpic26943|acute appendicitis
+synpic22594|traumatic transient lateral patellar dislocation.
+synpic22899|lymphangitic carcinomatosis
+synpic21570|nonossifying fibroma
+synpic29756|osteochondroma
+synpic34122|horseshoe kidney
+synpic58602|vacterl syndrome
+synpic40304|benign cystic teratoma
+synpic100583|motor vehicle accidents and instrument failure
+synpic34711|pulmonary arteriovenous malformation (pavm)
+synpic16255|rheumatoid arthritis
+synpic16899|spinal cord astrocytoma
+synpic50770|spine, epidural abscess
+synpic52302|portal vein thrombosis
+synpic22449|mature cystic teratoma
+synpic51236|anterior mediastinal mass differential diagnosis
+synpic55265|aberrant right subclavian artery (arsa)
+synpic29833|acute appendicitis
+synpic25035|pulmonary embolism
+synpic57437|spondylodiskitis with epidural abcess of the cervical spine
+synpic37400|osteogenesis imperfecta
+synpic31451|unicornuate uterus
+synpic39774|ankylosing spondylitis
+synpic19532|histoplasmosis
+synpic36694|inguinal hernia involving bladder
+synpic31143|sarcoidosis
+synpic27931|multiple myeloma
+synpic24698|pulmonary arteriovenous malformation (pavm)
+synpic52605|ankylosing spondylitis
+synpic16864|myelolipoma
+synpic17522|sarcoidosis
+synpic21173|intussusception
+synpic22340|rickets
+synpic18936|ollier's disease, enchondormatosis
+synpic18787|osteochondroma
+synpic42576|caudal regression syndrome
+synpic39918|double aortic arch
+synpic19413|hypertrophic pyloric stenosis
+synpic50575|dural  fistula, avf
+synpic43618|choledocholithiasis
+synpic45858|pseudomembranous colitis
+synpic40469|fractures of the base of the fifth metatarsal
+synpic33432|pneumomediastinum
+synpic32163|foreign body aspiration
+synpic29230|femoral neck stress fractures
+synpic46635|pulmonary embolism
+synpic46825|pulmonary sarcoidosis
+synpic56204|lumbar herniated disc
+synpic33352|osteochondroma
+synpic58049|dural  fistula, avf
+synpic23500|sarcoidosis
+synpic27901|hypertrophic pyloric stenosis
+synpic53119|hiatal hernia
+synpic27904|acute appendicitis
+synpic56630|chiari i with cervical spine syrinx.
+synpic46499|congenital cystic adenomatoid malformation
+synpic18534|angiomyolipoma
+synpic39624|osteochondritis dissecans
+synpic31123|anterior mediastinal mass differential diagnosis
+synpic55398|femoral neck stress fractures
+synpic42066|osteiitis condensans ilii
+synpic27447|bronchiectasis
+synpic51288|radial head fracture
+synpic58680|pyogenic discitis
+synpic54521|partial anomalous pulmonary venous return
+synpic59048|c-spine fracture
+synpic28650|hydronephrosis
+synpic27243|venous thromboembolism (vte)
+synpic56881|hemangioma, soft-tissue
+synpic55193|parathyroid adenoma
+synpic18613|pneumonia
+synpic33243|nephrolithiasis
+synpic16256|fibrous dysplasia
+synpic50752|achalasia
+synpic24948|achilles tendon rupture
+synpic49454|angiomyolipoma
+synpic23787|ewing sarcoma
+synpic21266|hepatoblastoma
+synpic31627|ovarian torsion
+synpic59042|atlantoaxial instability
+synpic32171|amyand's hernia
+synpic36231|neuroblastoma
+synpic40614|intraosseous lipoma
+synpic49071|adenocarcinoma of the lung
+synpic32386|osteomyelitis
+synpic51653|spinal dural arteriovenous fistula
+synpic43619|crossed fused ectopia
+synpic32167|crohn's disease
+synpic20964|fat necrosis
+synpic42218|pneumomediastinum
+synpic22924|aberrant right subclavian artery (arsa)
+synpic55295|tethered spinal cord with terminal spinal lipoma
+synpic35736|leptomeningeal sarcoid
+synpic27198|liver hemangioma
+synpic21974|nonossifying fibroma
+synpic42590|quadriceps tendon rupture
+synpic15444|angiomyolipoma
+synpic32201|ectopic pregnancy
+synpic20694|vacterl syndrome
+synpic52304|diffuse large b-cell lymphoma
+synpic32176|amyand's hernia
+synpic54519|partial anomalous pulmonary venous return
+synpic42577|choledocholithiasis
+synpic33850|tibial plateau fracture
