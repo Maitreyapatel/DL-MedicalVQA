@@ -2,6 +2,7 @@ venv/
 dataset/
 VQA-Med-2021/
 models/
+models.zip
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

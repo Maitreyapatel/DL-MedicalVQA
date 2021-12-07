@@ -16,6 +16,9 @@ Please create following folders:
 3. At last, follow the path requirements in `./data_preprocessing.ipynb` to combine 2020 challenge's training and validation data single training data. This will create final training data.
 4. Now, visit [https://github.com/abachaa/VQA-Med-2021](https://github.com/abachaa/VQA-Med-2021) to get the testing dataset and follow the same instruction as step 2.
 
+### Pre-trained weights
+Pre-trained model weights can be found at: [https://drive.google.com/drive/folders/1K9f-huVsGUSgSVGfaYKL-XeygAm7IDMU?usp=sharing](https://drive.google.com/drive/folders/1K9f-huVsGUSgSVGfaYKL-XeygAm7IDMU?usp=sharing)
+
 ### Results
 Please refer the image id wise predicted answers by various models in `results` folder. One needs to run `./eval.ipynb` to get the accuracy and bleu scores. Keep in mind that this part also requires the access to the testing dataset.
 
